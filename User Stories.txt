@@ -1,0 +1,26 @@
+Author: Sai Herng
+Date: 3/18/2018
+
+
+User Stories
+--------------
+
+As a gamer, I would like to play classic console games on a computer so that I don't have to buy a new console.
+
+As a traveller, I would like to enjoy classic mini games in hotel room TVs without having to carry a laptop.  
+
+As an amaetur game developer, I would like to experience the functionalaties and environment of games from early classic consoles.  
+
+
+Acceptance Criteria
+------------------
+
+I can download any classic games from the internet and load them into the gaming device. 
+
+I dont want to carry a laptop. 
+
+I can save my game play data and start from where I left off. 
+
+
+
+

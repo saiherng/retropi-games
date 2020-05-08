@@ -1,0 +1,23 @@
+Author: Connor Falcon
+Date: 3/18/2018
+
+User Stories
+-----------------
+
+As a gamer I would like to be able to run any previously compatible retro game on the RetroPi
+so I don't have to worry about downloading specific files each time.
+
+As a gamer I want to be able to have access to a library of every game available for each console
+so I will always have access to them.
+
+As a student I want a RetroPi that's easy to use so I don't have to do much thinking when setting
+up the RetroPi during my study breaks.
+
+Acceptance Criteria
+---------------------
+
+I can run any compatible game ROM on the RetroPi.
+
+I have access to a source page for all classic ROMS.
+
+I can easily setup my RetroPi with no hassles.
