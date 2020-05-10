@@ -7,8 +7,6 @@ Software Development Project
 
 Sai Herng 
 
-BEFORE Running our Program you will need to do a few things...
-
 Install Dependencies:
 1. pip install PocketSphinx from command line.
 2. pip install SpeechRecognition from command line.
